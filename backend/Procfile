@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT long_nguyen_khanh_4560.wsgi:application
